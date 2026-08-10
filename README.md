@@ -29,6 +29,8 @@ Tenho interesse em desenvolvimento de software e desenvolvimento web, buscando e
  📚 Atualmente estudando
 
 * Python
+* Java
+* IA
 * Desenvolvimento de APIs
 * Engenharia de Software
 * Banco de Dados
