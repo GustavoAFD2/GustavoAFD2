@@ -1,24 +1,13 @@
 # Olá! Eu sou Gustavo
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=50&lines=Estudante+de+Engenharia+de+Software;Estudante+de+ADS+na+FATEC+Guarulhos;Técnico+em+Informática+para+Internet;Foco+em+Java+e+Backend;Estudando+Java+%7C+Python+%7C+SQL;Buscando+minha+primeira+oportunidade+em+TI" alt="Estudante de Engenharia de Software" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding GIF">
-</p>
-
-<h3 align="center">
-  Estudante de Engenharia de Software
-</h3>
-
-<p align="center">
-  Estudante de ADS na FATEC Guarulhos • Técnico em Informática para Internet
-</p>
-
-<p align="center">
-  Foco em Java e Backend • Estudando Java, Python e SQL
-</p>
-
-<p align="center">
-  Buscando minha primeira oportunidade em TI
 </p>
 
 ## Sobre mim
