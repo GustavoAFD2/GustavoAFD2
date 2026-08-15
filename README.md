@@ -10,109 +10,79 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding GIF">
 </p>
 
-## Sobre mim
+---
 
-Sou estudante de **Engenharia de Software na Universidade Cruzeiro do Sul** e de **Análise e Desenvolvimento de Sistemas na FATEC Guarulhos**, com formação técnica em **Informática para Internet pela ETEC Parque Belém**, e tenho interesse em desenvolvimento de software e construção de soluções utilizando tecnologia.
+## 👨‍💻 Sobre mim
 
-Atualmente, estou direcionando meus estudos principalmente para **Java e desenvolvimento backend**, enquanto também desenvolvo conhecimentos em **Python, SQL, desenvolvimento web, Git, GitHub, AWS e outras tecnologias**.
+Sou estudante de **Engenharia de Software na Universidade Cruzeiro do Sul** e de **Análise e Desenvolvimento de Sistemas na FATEC Guarulhos**, com formação técnica em **Informática para Internet pela ETEC Parque Belém**.
 
-Estou em busca da minha **primeira oportunidade na área de Tecnologia**, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e evoluir continuamente como desenvolvedor.
+Tenho interesse em **desenvolvimento de software**, principalmente na área de **backend**, e atualmente estou direcionando meus estudos para **Java e desenvolvimento de APIs**.
+
+Também venho desenvolvendo conhecimentos em **Python, SQL, desenvolvimento web, Git, GitHub, Docker e AWS**, buscando sempre transformar o que aprendo em projetos práticos.
+
+Atualmente, estou em busca da minha **primeira oportunidade na área de Tecnologia**, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e evoluir como desenvolvedor.
 
 ---
 
-## Formação
+## 🎓 Formação
 
-| Formação                              | Instituição                  | Status    |
-| ------------------------------------- | ---------------------------- | --------- |
-| Engenharia de Software                | Universidade Cruzeiro do Sul | Cursando  |
-| Análise e Desenvolvimento de Sistemas | FATEC Guarulhos              | Cursando  |
-| Técnico em Informática para Internet  | ETEC Parque Belém            | Concluído |
+| Formação | Instituição | Status |
+| --- | --- | --- |
+| Engenharia de Software | Universidade Cruzeiro do Sul | 🟢 Cursando |
+| Análise e Desenvolvimento de Sistemas | FATEC Guarulhos | 🟢 Cursando |
+| Técnico em Informática para Internet | ETEC Parque Belém | ✅ Concluído |
 
 ---
 
-## Tecnologias
+## 🚀 Tecnologias
 
-### Linguagens
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-</p>
-
-### Desenvolvimento Web
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</p>
-
-### Backend & APIs
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">
-</p>
-
-### Banco de Dados
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin">
-</p>
-
-### Ferramentas, IDEs & Cloud
-
-<p>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,php,html,css,spring,mysql,git,github,docker,aws,idea,pycharm,vscode,wordpress&perline=8" />
+  </a>
 </p>
 
 ---
 
-## Atualmente estudando
+## 📚 Atualmente estudando
 
-```text
-Java
-├── Programação Orientada a Objetos
-├── Collections
-├── Exceptions
-├── APIs
-└── Spring Boot
+### ☕ Java
 
-Python
-├── Fundamentos
-├── Programação
-└── Desenvolvimento de aplicações
+- Programação Orientada a Objetos
+- Collections
+- Exceptions
+- APIs
+- Spring Boot
+- Desenvolvimento backend
 
-Banco de Dados
-├── SQL
-├── Modelagem
-└── Integração com aplicações
+### 🐍 Python
 
-Desenvolvimento
-├── Git & GitHub
-├── REST APIs
-├── Docker
-└── AWS
-```
+- Fundamentos
+- Estruturas de dados
+- Programação
+- Desenvolvimento de aplicações
+
+### 🗄️ Banco de Dados
+
+- SQL
+- Modelagem de dados
+- MySQL
+- Integração com aplicações
+
+### ⚙️ Desenvolvimento
+
+- Git & GitHub
+- REST APIs
+- Docker
+- AWS
 
 ---
 
-## Projeto em destaque
+## 💻 Projeto em destaque
 
 ### Klareza Insure — Corretora de Seguros
 
-Projeto desenvolvido para uma corretora de seguros, com foco na criação de uma presença digital profissional e acessível.
+Projeto desenvolvido para uma corretora de seguros, com foco na criação de uma presença digital **profissional, acessível e responsiva**.
 
 **Tecnologias utilizadas:**
 
@@ -120,13 +90,13 @@ Projeto desenvolvido para uma corretora de seguros, com foco na criação de uma
 
 <p>
   <a href="https://github.com/GustavoAFD2/Projeto-Klareza-Insure-Corretora-de-Seguros">
-    <img src="https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto no GitHub">
+    <img src="https://img.shields.io/badge/Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto no GitHub">
   </a>
 </p>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoAFD2&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats">
@@ -139,41 +109,42 @@ Projeto desenvolvido para uma corretora de seguros, com foco na criação de uma
 
 ---
 
-## Conhecimentos
+## 🧠 Conhecimentos
 
-| Área                   | Tecnologias                                         |
-| ---------------------- | --------------------------------------------------- |
-| Linguagens             | Java, Python, JavaScript, PHP, SQL                  |
-| Front-end              | HTML5, CSS3, JavaScript                             |
-| Backend                | Java, Spring Boot, REST APIs                        |
-| Banco de Dados         | SQL, MySQL, phpMyAdmin                              |
-| Versionamento          | Git, GitHub                                         |
-| IDEs                   | IntelliJ IDEA, PyCharm                              |
-| Cloud                  | AWS                                                 |
-| Containers             | Docker                                              |
-| Modelagem              | UML, BPMN                                           |
+| Área | Tecnologias |
+| --- | --- |
+| Linguagens | Java, Python, JavaScript, PHP, SQL |
+| Front-end | HTML5, CSS3, JavaScript |
+| Backend | Java, REST APIs |
+| Banco de Dados | SQL, MySQL, phpMyAdmin |
+| Versionamento | Git, GitHub |
+| IDEs | IntelliJ IDEA, PyCharm, VS Code |
+| Cloud | AWS |
+| Containers | Docker |
+| Modelagem | UML, BPMN |
 | Engenharia de Software | Requisitos, modelagem e desenvolvimento de sistemas |
 
 ---
 
-## Objetivos
+## 🎯 Objetivos
 
-Meu principal objetivo é iniciar minha carreira profissional em **Tecnologia da Informação**, especialmente em desenvolvimento de software.
+Meu principal objetivo é iniciar minha carreira profissional em **Tecnologia da Informação**, especialmente na área de **desenvolvimento de software**.
 
-Quero construir uma base sólida em **Java, backend, bancos de dados e cloud**, evoluindo gradualmente para projetos cada vez mais completos e profissionais.
+Neste momento, meu foco está em construir uma base sólida em **Java, backend, bancos de dados, APIs e cloud**, desenvolvendo projetos que me permitam colocar meus conhecimentos em prática.
 
-A longo prazo, busco me tornar um desenvolvedor capaz de trabalhar na construção de sistemas escaláveis, participar de projetos relevantes e continuar aprendendo novas tecnologias.
+A longo prazo, quero me tornar um desenvolvedor capaz de participar da construção de **sistemas escaláveis, eficientes e bem estruturados**, sempre buscando evoluir tecnicamente e aprender novas tecnologias.
 
 ---
 
-## Conecte-se comigo
+## 🤝 Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavo-alves-b47a2b420/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn">
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/GustavoAFD2">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub">
   </a>
 </p>
 
