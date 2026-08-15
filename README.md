@@ -81,7 +81,7 @@ Atualmente, estou em busca da minha **primeira oportunidade na área de Tecnolog
 
 ### Klareza Insure — Corretora de Seguros
 
-Projeto desenvolvido para uma corretora de seguros, com foco na criação de uma presença digital **profissional, acessível e responsiva**.
+Desenvolvi um site para uma corretora de seguros, estruturando uma presença digital profissional, responsiva e acessível.
 
 **Tecnologias utilizadas:**
 
