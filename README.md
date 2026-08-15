@@ -1,4 +1,4 @@
-# Olá! Eu sou Gustavo
+# Olá! Eu sou o Gustavo
 
 <p align="center">
   <a href="https://git.io/typing-svg">
