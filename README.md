@@ -2,14 +2,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=50&lines=Estudante+de+Engenharia+de+Software;Estudante+de+Análise e Desenvolvimento de Sistemas;Técnico+em+Informática+para+Internet;Foco+em+Java+e+Backend;Estudando+Java+%7C+Python+%7C+SQL;Buscando+minha+primeira+oportunidade+em+TI" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=50&lines=Estudante+de+Engenharia+de+Software;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;T%C3%A9cnico+em+Inform%C3%A1tica+para+Internet;Foco+em+Java+e+Backend;Estudando+Java+%7C+Python+%7C+SQL;Buscando+minha+primeira+oportunidade+em+TI" alt="Typing SVG">
   </a>
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding GIF">
 </p>
-
 ---
 
 ## 👨‍💻 Sobre mim
