@@ -1,7 +1,7 @@
 # Olá! Eu sou Gustavo
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=50&lines=Estudante+de+Engenharia+de+Software;Estudante+de+ADS+na+FATEC+Guarulhos;Foco+em+Java+e+Backend;Estudando+Java+%7C+Python+%7C+SQL;Buscando+minha+primeira+oportunidade+em+TI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=50&lines=Estudante+de+Engenharia+de+Software;Estudante+de+ADS+na+FATEC+Guarulhos;Técnico+em+Informática+para+Internet;Foco+em+Java+e+Backend;Estudando+Java+%7C+Python+%7C+SQL;Buscando+minha+primeira+oportunidade+em+TI" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ## Sobre mim
 
-Sou estudante de **Engenharia de Software na Universidade Cruzeiro do Sul** e de **Análise e Desenvolvimento de Sistemas na FATEC Guarulhos** e Técnico em Informática para Internet pela ETEC Parque Belém, com interesse em desenvolvimento de software e construção de soluções utilizando tecnologia.
+Sou estudante de **Engenharia de Software na Universidade Cruzeiro do Sul** e de **Análise e Desenvolvimento de Sistemas na FATEC Guarulhos**, com formação técnica em **Informática para Internet pela ETEC Parque Belém**, e tenho interesse em desenvolvimento de software e construção de soluções utilizando tecnologia.
 
 Atualmente, estou direcionando meus estudos principalmente para **Java e desenvolvimento backend**, enquanto também desenvolvo conhecimentos em **Python, SQL, desenvolvimento web, Git, GitHub, AWS e outras tecnologias**.
 
@@ -24,7 +24,7 @@ Estou em busca da minha **primeira oportunidade na área de Tecnologia**, onde p
 | ------------------------------------- | ---------------------------- | --------- |
 | Engenharia de Software                | Universidade Cruzeiro do Sul | Cursando  |
 | Análise e Desenvolvimento de Sistemas | FATEC Guarulhos              | Cursando  |
-| Técnico em Informática para Internet  | ETEC                         | Concluído |
+| Técnico em Informática para Internet  | ETEC Parque Belém            | Concluído |
 
 ---
 
