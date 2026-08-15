@@ -10,7 +10,7 @@
 
 ## Sobre mim
 
-Sou estudante de **Engenharia de Software na Universidade Cruzeiro do Sul** e de **Análise e Desenvolvimento de Sistemas na FATEC Guarulhos**, com interesse em desenvolvimento de software e construção de soluções utilizando tecnologia.
+Sou estudante de **Engenharia de Software na Universidade Cruzeiro do Sul** e de **Análise e Desenvolvimento de Sistemas na FATEC Guarulhos** e Técnico em Informática para Internet pela ETEC Parque Belém, com interesse em desenvolvimento de software e construção de soluções utilizando tecnologia.
 
 Atualmente, estou direcionando meus estudos principalmente para **Java e desenvolvimento backend**, enquanto também desenvolvo conhecimentos em **Python, SQL, desenvolvimento web, Git, GitHub, AWS e outras tecnologias**.
 
