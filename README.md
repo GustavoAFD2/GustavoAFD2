@@ -1,7 +1,7 @@
 # Olá! Eu sou Gustavo
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=50&lines=Graduando+em+Engenharia+de+Software;Futuro+Desenvolvedor+Backend;Estudando+Java+%7C+Python+%7C+SQL;Construindo+meu+futuro+na+tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=50&lines=Estudante+de+Engenharia+de+Software;Estudante+de+ADS+na+FATEC+Guarulhos;Foco+em+Java+e+Backend;Estudando+Java+%7C+Python+%7C+SQL;Buscando+minha+primeira+oportunidade+em+TI" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,9 +10,9 @@
 
 ## Sobre mim
 
-Sou graduando em **Engenharia de Software** e estudante da **FATEC**, com interesse em desenvolvimento de software e construção de soluções utilizando tecnologia.
+Sou estudante de **Engenharia de Software na Universidade Cruzeiro do Sul** e de **Análise e Desenvolvimento de Sistemas na FATEC Guarulhos**, com interesse em desenvolvimento de software e construção de soluções utilizando tecnologia.
 
-Atualmente, estou direcionando meus estudos principalmente para **Java e desenvolvimento backend**, enquanto continuo desenvolvendo conhecimentos em Python, SQL, desenvolvimento web, Git, GitHub, AWS e outras tecnologias.
+Atualmente, estou direcionando meus estudos principalmente para **Java e desenvolvimento backend**, enquanto também desenvolvo conhecimentos em **Python, SQL, desenvolvimento web, Git, GitHub, AWS e outras tecnologias**.
 
 Estou em busca da minha **primeira oportunidade na área de Tecnologia**, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e evoluir continuamente como desenvolvedor.
 
@@ -20,11 +20,11 @@ Estou em busca da minha **primeira oportunidade na área de Tecnologia**, onde p
 
 ## Formação
 
-| Formação                                      | Status    |
-| --------------------------------------------- | --------- |
-| Engenharia de Software                        | Cursando  |
-| Análise e Desenvolvimento de Sistemas — FATEC | Cursando  |
-| Técnico em Informática para Internet          | Concluído |
+| Formação                              | Instituição                  | Status    |
+| ------------------------------------- | ---------------------------- | --------- |
+| Engenharia de Software                | Universidade Cruzeiro do Sul | Cursando  |
+| Análise e Desenvolvimento de Sistemas | FATEC Guarulhos              | Cursando  |
+| Técnico em Informática para Internet  | ETEC                         | Concluído |
 
 ---
 
@@ -48,7 +48,7 @@ Estou em busca da minha **primeira oportunidade na área de Tecnologia**, onde p
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-### Backend & Frameworks
+### Backend & APIs
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -64,12 +64,13 @@ Estou em busca da minha **primeira oportunidade na área de Tecnologia**, onde p
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin">
 </p>
 
-### Ferramentas & Cloud
+### Ferramentas, IDEs & Cloud
 
 <p>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
@@ -85,6 +86,11 @@ Java
 ├── Exceptions
 ├── APIs
 └── Spring Boot
+
+Python
+├── Fundamentos
+├── Programação
+└── Desenvolvimento de aplicações
 
 Banco de Dados
 ├── SQL
@@ -133,17 +139,18 @@ Projeto desenvolvido para uma corretora de seguros, com foco na criação de uma
 
 ## Conhecimentos
 
-| Área           | Tecnologias                                   |
-| -------------- | --------------------------------------------- |
-| Linguagens     | Java, Python, JavaScript, PHP, SQL            |
-| Front-end      | HTML5, CSS3, JavaScript                       |
-| Backend        | Java, Spring Boot, REST APIs                  |
-| Banco de Dados | SQL, MySQL, phpMyAdmin                        |
-| Versionamento  | Git, GitHub                                   |
-| Cloud          | AWS                                           |
-| Containers     | Docker                                        |
-| IDE            | Visual Studio Code                            |
-| Metodologias   | Engenharia de Software, UML, BPMN, requisitos |
+| Área                   | Tecnologias                                         |
+| ---------------------- | --------------------------------------------------- |
+| Linguagens             | Java, Python, JavaScript, PHP, SQL                  |
+| Front-end              | HTML5, CSS3, JavaScript                             |
+| Backend                | Java, Spring Boot, REST APIs                        |
+| Banco de Dados         | SQL, MySQL, phpMyAdmin                              |
+| Versionamento          | Git, GitHub                                         |
+| IDEs                   | IntelliJ IDEA, PyCharm                              |
+| Cloud                  | AWS                                                 |
+| Containers             | Docker                                              |
+| Modelagem              | UML, BPMN                                           |
+| Engenharia de Software | Requisitos, modelagem e desenvolvimento de sistemas |
 
 ---
 
