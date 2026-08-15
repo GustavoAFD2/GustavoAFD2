@@ -98,12 +98,17 @@ Projeto desenvolvido para uma corretora de seguros, com foco na criação de uma
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoAFD2&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAFD2&layout=compact&langs_count=8&hide_border=true" alt="Top Languages">
-</p>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=GustavoAFD2&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
+    alt="GitHub Stats"
+  />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoAFD2&hide_border=true" alt="GitHub Streak">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAFD2&layout=compact&langs_count=8&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
