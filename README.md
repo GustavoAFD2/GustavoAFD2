@@ -1,7 +1,9 @@
 # Olá! Eu sou Gustavo
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=50&lines=Estudante+de+Engenharia+de+Software;Estudante+de+ADS+na+FATEC+Guarulhos;Técnico+em+Informática+para+Internet;Foco+em+Java+e+Backend;Estudando+Java+%7C+Python+%7C+SQL;Buscando+minha+primeira+oportunidade+em+TI" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=50&lines=Estudante+de+Engenharia+de+Software;Estudante+de+ADS+na+FATEC+Guarulhos;Técnico+em+Informática+para+Internet;Foco+em+Java+e+Backend;Estudando+Java+%7C+Python+%7C+SQL;Buscando+minha+primeira+oportunidade+em+TI" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
