@@ -13,6 +13,9 @@
 
 ## 👨‍💻 Sobre mim
 
+<!-- A imagem abaixo puxa sua foto do GitHub. Se quiser um "boneco" de desenho, faça o upload dele no GitHub e troque o link abaixo! -->
+<img align="left" src="https://github.com/GustavoAFD2.png" width="180" style="margin-right: 20px; border-radius: 10px;" alt="Meu Avatar">
+
 Sou estudante de **Engenharia de Software na Universidade Cruzeiro do Sul** e de **Análise e Desenvolvimento de Sistemas na FATEC Guarulhos**, com formação técnica em **Informática para Internet pela ETEC Parque Belém**.
 
 Tenho interesse em **desenvolvimento de software**, principalmente na área de **backend**, e atualmente estou direcionando meus estudos para **Java e desenvolvimento de APIs**.
@@ -21,15 +24,21 @@ Também venho desenvolvendo conhecimentos em **Python, SQL, desenvolvimento web,
 
 Atualmente, estou em busca da minha **primeira oportunidade na área de Tecnologia**, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e evoluir como desenvolvedor.
 
+<br clear="left"/>
+
 ---
 
 ## 🎓 Formação
+
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="130" alt="Chapéu de Formatura">
 
 | Formação | Instituição | Status |
 | --- | --- | --- |
 | Engenharia de Software | Universidade Cruzeiro do Sul | 🟢 Cursando |
 | Análise e Desenvolvimento de Sistemas | FATEC Guarulhos | 🟢 Cursando |
 | Técnico em Informática para Internet | ETEC Parque Belém | ✅ Concluído |
+
+<br clear="right"/>
 
 ---
 
