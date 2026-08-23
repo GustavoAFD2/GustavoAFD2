@@ -14,7 +14,7 @@
 ## 👨‍💻 Sobre mim
 
 <!-- A imagem abaixo puxa sua foto do GitHub. Se quiser um "boneco" de desenho, faça o upload dele no GitHub e troque o link abaixo! -->
-<img align="left" src="https://github.com/GustavoAFD2.png" width="180" style="margin-right: 20px; border-radius: 10px;" alt="Meu Avatar">
+<img align="left" src="avatar-pixel.jpg" width="180" style="margin-right: 20px; border-radius: 10px;" alt="Meu Avatar">
 
 Sou estudante de **Engenharia de Software na Universidade Cruzeiro do Sul** e de **Análise e Desenvolvimento de Sistemas na FATEC Guarulhos**, com formação técnica em **Informática para Internet pela ETEC Parque Belém**.
 
