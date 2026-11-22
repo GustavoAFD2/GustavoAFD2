@@ -94,7 +94,7 @@ Desenvolvi um site para uma corretora de seguros, estruturando uma presença dig
 
 **Tecnologias utilizadas:**
 
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
 <p>
   <a href="https://github.com/GustavoAFD2/Projeto-Klareza-Insure-Corretora-de-Seguros">
